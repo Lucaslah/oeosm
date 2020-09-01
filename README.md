@@ -1,7 +1,7 @@
 # oeosm
 A Nano IP Cam Layout for exporting and cloning and using.
 
-#### Cloning
+## Cloning
 
 - clone a copy on your computer with `git clone https://github.com/Lucaslah/oeosm.git` ( Run in a command line )
 - cd oeosm
